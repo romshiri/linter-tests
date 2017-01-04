@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sdklib-24.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdklib/24.2.1/340b378c61d86d7d3d18e239c6f9a7f333efc368/sdklib-24.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdklib/24.2.1/27b99eae3b7623a75fd2cb6cc21423bf952524b2/sdklib-24.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
